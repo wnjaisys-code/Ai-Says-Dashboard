@@ -1511,36 +1511,6 @@
       "added": "2026-11-16"
     },
     {
-      "id": "L-110",
-      "title": "Deel — 7,000 mulazim, 100 mulk, aik bhi daftar nahi (Nas Daily Urdu)",
-      "category": "AI Economy & Future of Work",
-      "source": "S3",
-      "section": "Reels: remote kaam",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/995895816896960"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
-      "id": "L-120",
-      "title": "Awaz se kamai: Bodalgo aur Voquent (voiceover websites) — profile free, lekin jobs par apply karne ki fee hai aur sirf professional awaz chahiye (Ovais Mangalwala)",
-      "category": "AI Economy & Future of Work",
-      "source": "S3",
-      "section": "Reels: remote kaam",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1148049961031787"
-        }
-      ],
-      "added": "2026-11-22"
-    },
-    {
       "id": "L-078",
       "title": "TikTok ka USA/UK region account Pakistan se banana (Urdu video) — TikTok ke rules ke khilaf, ban ka khatra",
       "category": "Accounts & Payments",
@@ -1566,6 +1536,11 @@
       "kind": "Video",
       "files": [
         {
+          "kind": "Web page",
+          "url": "https://github.com/nextwork-projects/ai-video-editor-cooked",
+          "label": "GitHub repository — cooked. AI video editor"
+        },
+        {
           "kind": "Video",
           "url": "https://www.instagram.com/reel/DeihXkGDQV0/"
         }
@@ -1574,18 +1549,31 @@
     },
     {
       "id": "L-080",
-      "title": "Free AI Video Editor skill (Nafay 3D, OpenCode ke sath)",
+      "title": "Free AI Video Editor skill — talking-head videos edit karta hai (Nafay 3D, OpenCode)",
       "category": "AI Tools & Websites",
       "source": "S3",
-      "section": "Video aur avatar",
+      "section": "YouTube: AI video tools and skills",
       "kind": "Video",
       "files": [
         {
+          "kind": "Skill download",
+          "url": "https://nafay3d.com/skills/ai-video-editor/ai-video-editor.zip?v=2",
+          "label": "AI Video Editor skill ZIP (direct download)"
+        },
+        {
+          "kind": "Web page",
+          "url": "https://nafay3d.com/",
+          "label": "Creator site / install instructions"
+        },
+        {
           "kind": "Video",
-          "url": "https://www.youtube.com/watch?v=45g-Kzrznsg"
+          "url": "https://www.youtube.com/watch?v=45g-Kzrznsg",
+          "label": "Original video (source)"
         }
       ],
-      "added": "2026-11-21"
+      "added": "2026-11-25",
+      "note": "Video description mein creator apni site nafay3d.com se free skill download ka link deta hai, GitHub repository nahi. Direct ZIP download ko HTTP 200 se check kiya, 4.86 MB archive khol kar ZIP structure validate kiya; temporary copy foran delete kar di. Skill Claude Code/OpenCode mein local video cut karta hai aur motion graphics add karta hai. Main card direct ZIP download kholta hai; site aur original video alag links mein hain.",
+      "creator": "Nafay 3D"
     },
     {
       "id": "L-081",
@@ -1601,81 +1589,6 @@
         }
       ],
       "added": "2026-11-21"
-    },
-    {
-      "id": "L-103",
-      "title": "\"Goodbye video editors\" — AI video editor, tool ka naam nahi bataya (AI HubSeek)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Video aur avatar",
-      "kind": "Image",
-      "files": [
-        {
-          "kind": "Image",
-          "url": "https://www.facebook.com/100064008193882/posts/1586984093445182/"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
-      "id": "L-112",
-      "title": "Open Higgsfield AI — Higgsfield ka open-source badal, cloud models paid (Tech Hacks AI)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Video aur avatar",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1139574365698210"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
-      "id": "L-126",
-      "title": "DistilBook — PDF se awaz wali explainer video; free mein sirf 1 se 3 slides, phir $20 mahina se (Master the tools)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Video aur avatar",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1148918857542189"
-        }
-      ],
-      "added": "2026-11-22"
-    },
-    {
-      "id": "L-132",
-      "title": "OpenFilm — open-source AI video agent: coding agent web pages se film banata hai aur MP4 nikalta hai; free (MIT), yahan 8 second ki video bana kar dekhi; aik click wala generator nahi (Pinoyfreecoder)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Video aur avatar",
-      "kind": "Web page",
-      "files": [
-        {
-          "kind": "Web page",
-          "url": "https://www.facebook.com/100063476663630/posts/1800299018762636/"
-        }
-      ],
-      "added": "2026-11-22"
-    },
-    {
-      "id": "L-136",
-      "title": "Vidoveo — free AI video (8 second tak, 720p) aur image generator, sign-up nahi; dawa: din mein 50 videos aur 100 images. Site sirf 2 mahine purani, malik ka naam nahi; yahan nahi chalaya kyunke site bots ko mana karti hai (seedha link)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Video aur avatar",
-      "kind": "Web page",
-      "files": [
-        {
-          "kind": "Web page",
-          "url": "https://vidoveo.com/"
-        }
-      ],
-      "added": "2026-11-23"
     },
     {
       "id": "L-082",
@@ -1738,51 +1651,6 @@
       "added": "2026-11-21"
     },
     {
-      "id": "L-104",
-      "title": "Lead Gen API Stack — lead generation ke APIs ka GitHub repo (Chris Porter)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Tools ki lists",
-      "kind": "Web page",
-      "files": [
-        {
-          "kind": "Web page",
-          "url": "https://www.facebook.com/1450784508/posts/10240536105487388/"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
-      "id": "L-113",
-      "title": "Leads ke 2 GitHub repos: Google Maps Scraper + First Customer Finder (Ved Vijaywargiya)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Tools ki lists",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1683654730045942"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
-      "id": "L-118",
-      "title": "FreeDev — developers ke liye free services ki list (hosting, APIs, domains), ghaliban free-for.dev (Beyond Tahir)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Tools ki lists",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1107482711901672"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
       "id": "L-086",
       "title": "v0 — Claude Fable 5.2 aur GPT-6 free, had ke sath (Trakin AI)",
       "category": "AI Tools & Websites",
@@ -1811,36 +1679,6 @@
         }
       ],
       "added": "2026-11-21"
-    },
-    {
-      "id": "L-115",
-      "title": "Colibri — doosri reel, bare model ke liye 25 GB RAM aur sainkron GB disk (Wiseversity)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Free AI models",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/947429134857901"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
-      "id": "L-140",
-      "title": "HeyGen Voice Turbo — text se awaz ka model, API par 30 Nov 2026 tak free (card nahi, sirf account aur API key); free capacity bhar jaye to 429 error. Urdu chalti hai ya nahi, check nahi hua (freebies post)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Free AI models",
-      "kind": "Web page",
-      "files": [
-        {
-          "kind": "Web page",
-          "url": "https://www.heygen.com/blog/heygen-voice-turbo"
-        }
-      ],
-      "added": "2026-11-23"
     },
     {
       "id": "L-088",
@@ -1888,156 +1726,6 @@
       "added": "2026-11-21"
     },
     {
-      "id": "L-124",
-      "title": "Awareness: sirf phone number se address aur location nikal aati hai (India, dark web) — tool ka naam nahi bataya (Cyber Rishabh)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Security",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1798286584850441"
-        }
-      ],
-      "added": "2026-11-22"
-    },
-    {
-      "id": "L-121",
-      "title": "Animated Knots — har qisam ki gaanth aur tie baandhna, qadam ba qadam animation ke sath, free (Bytes HQ)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Kaam ki websites aur tools",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/4594155837471712"
-        }
-      ],
-      "added": "2026-11-22"
-    },
-    {
-      "id": "L-128",
-      "title": "Mailflare — apne domain ki emails, calendar aur drive khud host karein (Cloudflare); software free, lekin domain aur Cloudflare account apna chahiye (Dilip Kumar Pandit)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Kaam ki websites aur tools",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1814996119821311"
-        }
-      ],
-      "added": "2026-11-22"
-    },
-    {
-      "id": "L-129",
-      "title": "HackerTube — YouTube ki woh videos jo Hacker News ke log aik doosre ko recommend karte hain, 6,454 videos, free (Videowalisarkar)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Kaam ki websites aur tools",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/3397604647115633"
-        }
-      ],
-      "added": "2026-11-22"
-    },
-    {
-      "id": "L-133",
-      "title": "DOF Simulator — camera ka depth of field aur background blur browser mein dekhein (lens, aperture, fasla badal kar); free, login nahi; yahan chala kar dekha (Bytes HQ)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Kaam ki websites aur tools",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/4554585268114275"
-        }
-      ],
-      "added": "2026-11-22"
-    },
-    {
-      "id": "L-134",
-      "title": "Alomana — chat mein kaam likhein, AI agent apps, slides, docs banata hai; free mein 250 credits hafta, phir €20 mahina se; \"$4k mein website becho\" reel ka apna dawa hai, login ke baghair nahi chalta (Ay Ayy)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Kaam ki websites aur tools",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/2333487610746763"
-        }
-      ],
-      "added": "2026-11-22"
-    },
-    {
-      "id": "L-137",
-      "title": "Jetpac Eterna — \"lifetime free\" travel eSIM: har eligible safar par 100 MB (saal mein 4 safar tak). Apne mulk mein nahi chalta; abhi sirf 10 mulkon ke logon ke liye, Pakistan ke liye sirf waitlist (seedha link)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Kaam ki websites aur tools",
-      "kind": "Web page",
-      "files": [
-        {
-          "kind": "Web page",
-          "url": "https://www.jetpacglobal.com/eterna"
-        }
-      ],
-      "added": "2026-11-23"
-    },
-    {
-      "id": "L-138",
-      "title": "Google Cloud — naye account par $300 credit 90 din ke liye, aur 20+ cheezein hamesha free had tak (maslan 1 chhoti e2-micro machine); sign-up par card dena lazmi. Link aik ishtihar ka tha (seedha link)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Kaam ki websites aur tools",
-      "kind": "Web page",
-      "files": [
-        {
-          "kind": "Web page",
-          "url": "https://cloud.google.com/gcp"
-        }
-      ],
-      "added": "2026-11-23"
-    },
-    {
-      "id": "L-139",
-      "title": "checkdomain.de — .com domain pehle saal €0.84 (Black Weeks, 30 Nov 2026 tak); \"affiliatechecker\" asal mein €5 ka voucher hai, $0 aik ghalti se banta tha aur ab band bataya ja raha hai. Doosre saal se taqreeban €26 saal, card lazmi (freebies post)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Kaam ki websites aur tools",
-      "kind": "Web page",
-      "files": [
-        {
-          "kind": "Web page",
-          "url": "https://www.checkdomain.de/"
-        }
-      ],
-      "added": "2026-11-23"
-    },
-    {
-      "id": "L-141",
-      "title": "Exa — AI ke liye web search API: free plan mein har mahine $10 credit + $10 bonus, card nahi; post ke 4 promo codes ($140) check nahi ho sake. Is ka MCP server key ke baghair yahan chala kar dekha (freebies post)",
-      "category": "AI Tools & Websites",
-      "source": "S3",
-      "section": "Kaam ki websites aur tools",
-      "kind": "Web page",
-      "files": [
-        {
-          "kind": "Web page",
-          "url": "https://exa.ai/"
-        }
-      ],
-      "added": "2026-11-23"
-    },
-    {
       "id": "L-091",
       "title": "OpenCode — free AI coding agent (Coding Simplified Space)",
       "category": "Automation & Agent Templates",
@@ -2045,6 +1733,11 @@
       "section": "Reels: agents aur bots",
       "kind": "Video",
       "files": [
+        {
+          "kind": "Web page",
+          "url": "https://github.com/anomalyco/opencode",
+          "label": "GitHub repository — OpenCode (current official repo)"
+        },
         {
           "kind": "Video",
           "url": "https://web.facebook.com/reel/1816178916168538"
@@ -2061,6 +1754,11 @@
       "kind": "Video",
       "files": [
         {
+          "kind": "Web page",
+          "url": "https://github.com/msitarzewski/agency-agents",
+          "label": "GitHub repository — agency-agents (230+ AI agents)"
+        },
+        {
           "kind": "Video",
           "url": "https://web.facebook.com/reel/1669251891606902"
         }
@@ -2069,18 +1767,26 @@
     },
     {
       "id": "L-093",
-      "title": "WhatsApp AI bot, open-source (Aman Arya AI)",
+      "title": "Wechaty — open-source WhatsApp/chatbot automation framework (Aman Arya AI)",
       "category": "Automation & Agent Templates",
       "source": "S3",
-      "section": "Reels: agents aur bots",
+      "section": "Facebook Reels: open-source bots",
       "kind": "Video",
       "files": [
         {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1178696521351000"
+          "kind": "Web page",
+          "url": "https://github.com/wechaty/wechaty",
+          "label": "GitHub repository — Wechaty"
+        },
+        {
+          "kind": "Post",
+          "url": "https://web.facebook.com/reel/1178696521351000",
+          "label": "Original Facebook reel (source)"
         }
       ],
-      "added": "2026-11-21"
+      "added": "2026-11-25",
+      "note": "Reel mein GitHub par Wechaty repository aur Wechaty documentation/site dikh rahi hai. Repo URL screenshot se identify kiya aur live HTTP request se open hona confirm kiya. Reel WhatsApp automation ka promotional explanation hai; real WhatsApp support/terms aur current compatibility repo ke README se verify karein.",
+      "creator": "Aman Arya AI"
     },
     {
       "id": "L-094",
@@ -2091,131 +1797,16 @@
       "kind": "Video",
       "files": [
         {
+          "kind": "Web page",
+          "url": "https://github.com/open-jarvis/OpenJarvis",
+          "label": "GitHub repository — OpenJarvis"
+        },
+        {
           "kind": "Video",
           "url": "https://web.facebook.com/reel/1703775274593046"
         }
       ],
       "added": "2026-11-21"
-    },
-    {
-      "id": "L-105",
-      "title": "AI agents banane ke 7 GitHub repos (Coding Simplified Space)",
-      "category": "Automation & Agent Templates",
-      "source": "S3",
-      "section": "Reels: agents aur bots",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/4061724393958917"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
-      "id": "L-106",
-      "title": "ECC (Everything Claude Code) repo — Claude Code aur OpenCode ke liye agents aur skills (AI With Ankit)",
-      "category": "Automation & Agent Templates",
-      "source": "S3",
-      "section": "Reels: agents aur bots",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/3669190259910510"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
-      "id": "L-111",
-      "title": "Claude ko marketer banane ke 31 free GitHub repos (Charlie Hills)",
-      "category": "Automation & Agent Templates",
-      "source": "S3",
-      "section": "Reels: agents aur bots",
-      "kind": "Image",
-      "files": [
-        {
-          "kind": "Image",
-          "url": "https://www.facebook.com/61584541064067/posts/pfbid037tbJp4CbsX4KVQ6CuZHATEoWXfSM1r5xiSe3pHXpeFxpNqNG2X7UhekLcRzYtE6Sl/"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
-      "id": "L-114",
-      "title": "Freebuff — ads se chalne wala free coding agent, browser mein bhi (tonycreatess)",
-      "category": "Automation & Agent Templates",
-      "source": "S3",
-      "section": "Reels: agents aur bots",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/2251959522868474"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
-      "id": "L-116",
-      "title": "Artemis — Google ka AI agent jo Android phone ki apps chalata hai, computer se (Beyond Tahir)",
-      "category": "Automation & Agent Templates",
-      "source": "S3",
-      "section": "Reels: agents aur bots",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1637865634549561"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
-      "id": "L-119",
-      "title": "OpenJarvis lagane ki free PDF guide — PDF sign-in ke baad milti hai, andar se nahi parhi (AIBurner Official)",
-      "category": "Automation & Agent Templates",
-      "source": "S3",
-      "section": "Reels: agents aur bots",
-      "kind": "Web page",
-      "files": [
-        {
-          "kind": "Web page",
-          "url": "https://www.aiburnerofficial.com/resources/free-jarvis-setup-guide-18"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
-      "id": "L-130",
-      "title": "Hallmark — AI coding agent ke liye design skill, taake page \"AI ka banaya\" na lage; free (MIT), yahan chala kar dekha. Reel ka dawa ke yeh AI text aur images ko \"human\" banata hai, ghalat hai (Beyond Tahir)",
-      "category": "Automation & Agent Templates",
-      "source": "S3",
-      "section": "Reels: agents aur bots",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1499781735485127"
-        }
-      ],
-      "added": "2026-11-22"
-    },
-    {
-      "id": "L-172",
-      "title": "MyClaw 3.0 — cloud computer par AI agents ki team (OpenClaw, Hermes, Claude Code waghera), Slack/WhatsApp se baat; $20 mahina se, free plan nahi. Video aadhi tareef, aadha Julian ke paid group ka ishtihar (Julian Goldie SEO)",
-      "category": "Automation & Agent Templates",
-      "source": "S3",
-      "section": "Reels: agents aur bots",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://www.youtube.com/watch?v=BV_ojxOcmM4"
-        }
-      ],
-      "added": "2026-11-23"
     },
     {
       "id": "L-095",
@@ -2263,111 +1854,6 @@
       "added": "2026-11-21"
     },
     {
-      "id": "L-107",
-      "title": "Higgsfield se kamai ke 3 tareeqe (Raycfu)",
-      "category": "Content & Marketing",
-      "source": "S3",
-      "section": "Reels: clipping aur collab",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1744184546648479"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
-      "id": "L-108",
-      "title": "Faceless Facebook business ke 7 ChatGPT prompts (Aftab Butt)",
-      "category": "Content & Marketing",
-      "source": "S3",
-      "section": "Reels: clipping aur collab",
-      "kind": "Web page",
-      "files": [
-        {
-          "kind": "Web page",
-          "url": "https://www.facebook.com/100063509479753/posts/1724003329726633/"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
-      "id": "L-117",
-      "title": "Video clipping se kamai ka guide: Whop Content Rewards + Opus Clip (SimplyDigital newsletter)",
-      "category": "Content & Marketing",
-      "source": "S3",
-      "section": "Reels: clipping aur collab",
-      "kind": "Web page",
-      "files": [
-        {
-          "kind": "Web page",
-          "url": "https://simplydigital.beehiiv.com/p/this-is-the-laziest-way-you-can-earn-money-online-in-2026"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
-      "id": "L-122",
-      "title": "Socialaize — aik post 10+ platforms par khud post karne wala tool, $9.99 mahina se; company ka apna ishtihar, \"1000 videos rozana\" se account ban ho sakta hai (Socialaize)",
-      "category": "Content & Marketing",
-      "source": "S3",
-      "section": "Reels: clipping aur collab",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/981083401327018"
-        }
-      ],
-      "added": "2026-11-22"
-    },
-    {
-      "id": "L-125",
-      "title": "GTA 6 streams ki clipping: Google Antigravity + 2 prompts (yt-dlp, ffmpeg, whisper) — pure prompts sirf comment karne par milte hain (Sahitya Porwal)",
-      "category": "Content & Marketing",
-      "source": "S3",
-      "section": "Reels: clipping aur collab",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1673144960937130"
-        }
-      ],
-      "added": "2026-11-22"
-    },
-    {
-      "id": "L-131",
-      "title": "Beyond GTA Clips — lambi GTA 6 stream se khud 9:16 reels banane wala free skill (Claude Code, Codex, ya AI ke baghair); yahan aik clip bana kar dekha; kamai ka koi wada nahi (Beyond Tahir)",
-      "category": "Content & Marketing",
-      "source": "S3",
-      "section": "Reels: clipping aur collab",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/2667821253672638"
-        }
-      ],
-      "added": "2026-11-22"
-    },
-    {
-      "id": "L-171",
-      "title": "Asli Monet ki painting ko X par \"AI se banayi\" keh kar post kiya gaya, logon ne us mein ghaltiyan nikal dein — sabaq: log label dekh kar faisla karte hain. Waqia sach hai, May 2026 (Beyond Tahir)",
-      "category": "Content & Marketing",
-      "source": "S3",
-      "section": "Reels: sabaq aur misalein",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://www.instagram.com/reel/DgDBTiJuT_a/"
-        }
-      ],
-      "added": "2026-11-23"
-    },
-    {
       "id": "L-098",
       "title": "AI prompt: kisi bhi topic ke 5 viral hooks (Yik Chan)",
       "category": "Prompt Templates",
@@ -2383,36 +1869,6 @@
       "added": "2026-11-21"
     },
     {
-      "id": "L-109",
-      "title": "Digital products banane ke 7 prompts (Aftab Butt)",
-      "category": "Prompt Templates",
-      "source": "S3",
-      "section": "Reels aur posts",
-      "kind": "Web page",
-      "files": [
-        {
-          "kind": "Web page",
-          "url": "https://www.facebook.com/100063509479753/posts/1717610977032535/"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
-      "id": "L-123",
-      "title": "GTA VI poster prompt — apni photo ko GTA VI loading-screen poster banane ka ChatGPT prompt (Adam.Digital)",
-      "category": "Prompt Templates",
-      "source": "S3",
-      "section": "Reels aur posts",
-      "kind": "Image",
-      "files": [
-        {
-          "kind": "Image",
-          "url": "https://www.facebook.com/100084019087375/posts/pfbid02gKk3kHj2PMWY2hVXwKCuYT6oWMNAB4fZMswjS3UDBtigyNBFGFbRmKj6t7exKVDYl/"
-        }
-      ],
-      "added": "2026-11-22"
-    },
-    {
       "id": "L-099",
       "title": "Resume ke liye 5 coding projects (EzSnippet)",
       "category": "AI Courses & Lessons",
@@ -2426,66 +1882,6 @@
         }
       ],
       "added": "2026-11-21"
-    },
-    {
-      "id": "L-102",
-      "title": "Virtual University + Cisco: 9 free AI aur cybersecurity courses, 7 Dec 2026 tak mukammal karne hain (ilmkidunya)",
-      "category": "AI Courses & Lessons",
-      "source": "S3",
-      "section": "Free online courses",
-      "kind": "Web page",
-      "files": [
-        {
-          "kind": "Web page",
-          "url": "https://www.facebook.com/100064388752962/posts/pfbid02dX1s1xmpiih3fzqvY4b9zQLR8rLEsNUpqaC7J3WtESTf5jcB1fDjgZY7YEkYKTC3l/"
-        }
-      ],
-      "added": "2026-11-21"
-    },
-    {
-      "id": "L-127",
-      "title": "Robotics Lab — Arduino aur Raspberry Pi jaise 8 boards ka free 3D simulator, login ke baghair (Bytes HQ)",
-      "category": "AI Courses & Lessons",
-      "source": "S3",
-      "section": "Free online courses",
-      "kind": "Video",
-      "files": [
-        {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/3039059166430856"
-        }
-      ],
-      "added": "2026-11-22"
-    },
-    {
-      "id": "L-135",
-      "title": "Harvard ke free online courses — official list par 128 courses (pll.harvard.edu/catalog/free); parhna free, edX certificate $149 se $299; sirf CS50 courses ka apna certificate free. AI aur coding courses ki list: notes/Harvard_free_courses.md (Alexandra Grants)",
-      "category": "AI Courses & Lessons",
-      "source": "S3",
-      "section": "Free online courses",
-      "kind": "Web page",
-      "files": [
-        {
-          "kind": "Web page",
-          "url": "https://alexandragrants.com/harvard-university-free-online-courses/"
-        }
-      ],
-      "added": "2026-11-23"
-    },
-    {
-      "id": "L-170",
-      "title": "UrduAi ki free master class: AI se video editing — 23 Nov 2026 se, classes email par (Urdu), certificate ke liye register hona lazmi; register: urduaiupdates.com/p/edc (Qaisar Roonjha, UrduAi)",
-      "category": "AI Courses & Lessons",
-      "source": "S3",
-      "section": "Free online courses",
-      "kind": "Web page",
-      "files": [
-        {
-          "kind": "Web page",
-          "url": "https://www.facebook.com/100092240108533/posts/1099939579757369/"
-        }
-      ],
-      "added": "2026-11-23"
     },
     {
       "id": "L-100",
@@ -2516,6 +1912,667 @@
         }
       ],
       "added": "2026-11-21"
+    },
+    {
+      "id": "L-102",
+      "title": "Virtual University + Cisco: 9 free AI aur cybersecurity courses, 7 Dec 2026 tak mukammal karne hain (ilmkidunya)",
+      "category": "AI Courses & Lessons",
+      "source": "S3",
+      "section": "Free online courses",
+      "kind": "Web page",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://www.facebook.com/100064388752962/posts/pfbid02dX1s1xmpiih3fzqvY4b9zQLR8rLEsNUpqaC7J3WtESTf5jcB1fDjgZY7YEkYKTC3l/"
+        }
+      ],
+      "added": "2026-11-21"
+    },
+    {
+      "id": "L-103",
+      "title": "\"Goodbye video editors\" — AI video editor, tool ka naam nahi bataya (AI HubSeek)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Video aur avatar",
+      "kind": "Image",
+      "files": [
+        {
+          "kind": "Image",
+          "url": "https://www.facebook.com/100064008193882/posts/1586984093445182/"
+        }
+      ],
+      "added": "2026-11-21"
+    },
+    {
+      "id": "L-105",
+      "title": "7 GitHub repos to build AI agents — Browser Use, Agent Memory, Scientific Skills, diagrams, security, harness engineering, OpenViking",
+      "category": "Automation & Agent Templates",
+      "source": "S3",
+      "section": "Facebook Reels: GitHub repositories and agent skills",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://github.com/browser-use/browser-use",
+          "label": "1. Browser Use — browser automation"
+        },
+        {
+          "kind": "Web page",
+          "url": "https://github.com/rohitg00/agentmemory",
+          "label": "2. Agent Memory — persistent coding-agent memory"
+        },
+        {
+          "kind": "Web page",
+          "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "label": "3. Scientific Agent Skills"
+        },
+        {
+          "kind": "Web page",
+          "url": "https://github.com/cathrynlavery/diagram-design",
+          "label": "4. Diagram Design"
+        },
+        {
+          "kind": "Web page",
+          "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+          "label": "5. Anthropic Cybersecurity Skills (community repo)"
+        },
+        {
+          "kind": "Web page",
+          "url": "https://github.com/ai-boost/awesome-harness-engineering",
+          "label": "6. Awesome Harness Engineering"
+        },
+        {
+          "kind": "Web page",
+          "url": "https://github.com/volcengine/OpenViking",
+          "label": "7. OpenViking"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/4061724393958917",
+          "label": "Original Facebook reel (source)"
+        }
+      ],
+      "added": "2026-11-25",
+      "note": "Facebook reel ki description se saat repo names nikale; frames mein diagram-design, Anthropic-Cybersecurity-Skills aur awesome-harness-engineering pages bhi dekhe. Seven direct GitHub links ko HTTP request se check kiya; sab responded successfully. Descriptions/counts repo owners ke README se verify karein, kyunki creator ke promo claims guarantee nahi. Main card Browser Use kholta hai; baqi chhe repos aur original reel extra links hain.",
+      "creator": "Coding Simplified Space"
+    },
+    {
+      "id": "L-106",
+      "title": "ECC (Everything Claude Code) repo — Claude Code aur OpenCode ke liye agents aur skills (AI With Ankit)",
+      "category": "Automation & Agent Templates",
+      "source": "S3",
+      "section": "Reels: agents aur bots",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://github.com/affaan-m/ECC",
+          "label": "GitHub repository — Everything Claude Code (ECC)"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/3669190259910510"
+        }
+      ],
+      "added": "2026-11-21"
+    },
+    {
+      "id": "L-107",
+      "title": "Higgsfield se kamai ke 3 tareeqe (Raycfu)",
+      "category": "Content & Marketing",
+      "source": "S3",
+      "section": "Reels: clipping aur collab",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/1744184546648479"
+        }
+      ],
+      "added": "2026-11-21"
+    },
+    {
+      "id": "L-108",
+      "title": "Faceless Facebook business ke 7 ChatGPT prompts (Aftab Butt)",
+      "category": "Content & Marketing",
+      "source": "S3",
+      "section": "Reels: clipping aur collab",
+      "kind": "Web page",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://www.facebook.com/100063509479753/posts/1724003329726633/"
+        }
+      ],
+      "added": "2026-11-21"
+    },
+    {
+      "id": "L-109",
+      "title": "Digital products banane ke 7 prompts (Aftab Butt)",
+      "category": "Prompt Templates",
+      "source": "S3",
+      "section": "Reels aur posts",
+      "kind": "Web page",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://www.facebook.com/100063509479753/posts/1717610977032535/"
+        }
+      ],
+      "added": "2026-11-21"
+    },
+    {
+      "id": "L-110",
+      "title": "Deel — 7,000 mulazim, 100 mulk, aik bhi daftar nahi (Nas Daily Urdu)",
+      "category": "AI Economy & Future of Work",
+      "source": "S3",
+      "section": "Reels: remote kaam",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/995895816896960"
+        }
+      ],
+      "added": "2026-11-21"
+    },
+    {
+      "id": "L-112",
+      "title": "Open Higgsfield AI — Higgsfield ka open-source badal, cloud models paid (Tech Hacks AI)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Video aur avatar",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+          "label": "GitHub repository — Open Higgsfield AI (renamed Open Generative AI)"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/1139574365698210"
+        }
+      ],
+      "added": "2026-11-21"
+    },
+    {
+      "id": "L-113",
+      "title": "Google Maps Scraper + First Customer Finder — do lead-generation repos (Ved Vijaywargiya)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Facebook Reels: lead-generation repos",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://github.com/gosom/google-maps-scraper",
+          "label": "Google Maps Scraper repository"
+        },
+        {
+          "kind": "Web page",
+          "url": "https://github.com/Kappaemme-git/codex-first-customer-finder-skill",
+          "label": "First Customer Finder skill repository"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/1683654730045942",
+          "label": "Original Facebook reel (source)"
+        }
+      ],
+      "added": "2026-11-25",
+      "note": "45.8-second reel temporarily downloaded to /tmp only to inspect frames. GitHub URLs gosom/google-maps-scraper and Kappaemme-git/codex-first-customer-finder-skill were read directly from on-screen repository pages; both direct URLs were checked and responded successfully. Original reel says “unlimited leads”, an unverified promotional claim. Temporary video and extracted frames were deleted after review.",
+      "creator": "Ved Vijaywargiya"
+    },
+    {
+      "id": "L-114",
+      "title": "Freebuff — ads se chalne wala free coding agent, browser mein bhi (tonycreatess)",
+      "category": "Automation & Agent Templates",
+      "source": "S3",
+      "section": "Reels: agents aur bots",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://github.com/CodebuffAI/freebuff",
+          "label": "GitHub repository — Freebuff official"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/2251959522868474"
+        }
+      ],
+      "added": "2026-11-21"
+    },
+    {
+      "id": "L-115",
+      "title": "Colibri — doosri reel, bare model ke liye 25 GB RAM aur sainkron GB disk (Wiseversity)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Free AI models",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/947429134857901"
+        }
+      ],
+      "added": "2026-11-21"
+    },
+    {
+      "id": "L-116",
+      "title": "Artemis — Google ka AI agent jo Android phone ki apps chalata hai, computer se (Beyond Tahir)",
+      "category": "Automation & Agent Templates",
+      "source": "S3",
+      "section": "Reels: agents aur bots",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/1637865634549561"
+        }
+      ],
+      "added": "2026-11-21"
+    },
+    {
+      "id": "L-117",
+      "title": "Video clipping se kamai ka guide: Whop Content Rewards + Opus Clip (SimplyDigital newsletter)",
+      "category": "Content & Marketing",
+      "source": "S3",
+      "section": "Reels: clipping aur collab",
+      "kind": "Web page",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://simplydigital.beehiiv.com/p/this-is-the-laziest-way-you-can-earn-money-online-in-2026"
+        }
+      ],
+      "added": "2026-11-21"
+    },
+    {
+      "id": "L-118",
+      "title": "FreeDev — developers ke liye free services ki list (hosting, APIs, domains), ghaliban free-for.dev (Beyond Tahir)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Tools ki lists",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://github.com/ripienaar/free-for-dev",
+          "label": "GitHub repository — free-for-dev official list"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/1107482711901672"
+        }
+      ],
+      "added": "2026-11-21"
+    },
+    {
+      "id": "L-119",
+      "title": "OpenJarvis lagane ki free PDF guide — PDF sign-in ke baad milti hai, andar se nahi parhi (AIBurner Official)",
+      "category": "Automation & Agent Templates",
+      "source": "S3",
+      "section": "Reels: agents aur bots",
+      "kind": "Web page",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://www.aiburnerofficial.com/resources/free-jarvis-setup-guide-18"
+        }
+      ],
+      "added": "2026-11-21"
+    },
+    {
+      "id": "L-120",
+      "title": "Awaz se kamai: Bodalgo aur Voquent (voiceover websites) — profile free, lekin jobs par apply karne ki fee hai aur sirf professional awaz chahiye (Ovais Mangalwala)",
+      "category": "AI Economy & Future of Work",
+      "source": "S3",
+      "section": "Reels: remote kaam",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/1148049961031787"
+        }
+      ],
+      "added": "2026-11-22"
+    },
+    {
+      "id": "L-121",
+      "title": "Animated Knots — har qisam ki gaanth aur tie baandhna, qadam ba qadam animation ke sath, free (Bytes HQ)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Kaam ki websites aur tools",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/4594155837471712"
+        }
+      ],
+      "added": "2026-11-22"
+    },
+    {
+      "id": "L-122",
+      "title": "Socialaize — aik post 10+ platforms par khud post karne wala tool, $9.99 mahina se; company ka apna ishtihar, \"1000 videos rozana\" se account ban ho sakta hai (Socialaize)",
+      "category": "Content & Marketing",
+      "source": "S3",
+      "section": "Reels: clipping aur collab",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/981083401327018"
+        }
+      ],
+      "added": "2026-11-22"
+    },
+    {
+      "id": "L-123",
+      "title": "GTA VI poster prompt — apni photo ko GTA VI loading-screen poster banane ka ChatGPT prompt (Adam.Digital)",
+      "category": "Prompt Templates",
+      "source": "S3",
+      "section": "Reels aur posts",
+      "kind": "Image",
+      "files": [
+        {
+          "kind": "Image",
+          "url": "https://www.facebook.com/100084019087375/posts/pfbid02gKk3kHj2PMWY2hVXwKCuYT6oWMNAB4fZMswjS3UDBtigyNBFGFbRmKj6t7exKVDYl/"
+        }
+      ],
+      "added": "2026-11-22"
+    },
+    {
+      "id": "L-124",
+      "title": "Awareness: sirf phone number se address aur location nikal aati hai (India, dark web) — tool ka naam nahi bataya (Cyber Rishabh)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Security",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/1798286584850441"
+        }
+      ],
+      "added": "2026-11-22"
+    },
+    {
+      "id": "L-125",
+      "title": "GTA 6 streams ki clipping: Google Antigravity + 2 prompts (yt-dlp, ffmpeg, whisper) — pure prompts sirf comment karne par milte hain (Sahitya Porwal)",
+      "category": "Content & Marketing",
+      "source": "S3",
+      "section": "Reels: clipping aur collab",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/1673144960937130"
+        }
+      ],
+      "added": "2026-11-22"
+    },
+    {
+      "id": "L-126",
+      "title": "DistilBook — PDF se awaz wali explainer video; free mein sirf 1 se 3 slides, phir $20 mahina se (Master the tools)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Video aur avatar",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/1148918857542189"
+        }
+      ],
+      "added": "2026-11-22"
+    },
+    {
+      "id": "L-127",
+      "title": "Robotics Lab — Arduino aur Raspberry Pi jaise 8 boards ka free 3D simulator, login ke baghair (Bytes HQ)",
+      "category": "AI Courses & Lessons",
+      "source": "S3",
+      "section": "Free online courses",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/3039059166430856"
+        }
+      ],
+      "added": "2026-11-22"
+    },
+    {
+      "id": "L-128",
+      "title": "Mailflare — apne domain ki emails, calendar aur drive khud host karein (Cloudflare); software free, lekin domain aur Cloudflare account apna chahiye (Dilip Kumar Pandit)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Kaam ki websites aur tools",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/1814996119821311"
+        }
+      ],
+      "added": "2026-11-22"
+    },
+    {
+      "id": "L-129",
+      "title": "HackerTube — YouTube ki woh videos jo Hacker News ke log aik doosre ko recommend karte hain, 6,454 videos, free (Videowalisarkar)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Kaam ki websites aur tools",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/3397604647115633"
+        }
+      ],
+      "added": "2026-11-22"
+    },
+    {
+      "id": "L-130",
+      "title": "Hallmark — AI coding agent ke liye design skill, taake page \"AI ka banaya\" na lage; free (MIT), yahan chala kar dekha. Reel ka dawa ke yeh AI text aur images ko \"human\" banata hai, ghalat hai (Beyond Tahir)",
+      "category": "Automation & Agent Templates",
+      "source": "S3",
+      "section": "Reels: agents aur bots",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://github.com/Nutlope/hallmark",
+          "label": "GitHub repository — Hallmark design skill"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/1499781735485127"
+        }
+      ],
+      "added": "2026-11-22"
+    },
+    {
+      "id": "L-131",
+      "title": "Beyond GTA Clips — lambi GTA 6 stream se khud 9:16 reels banane wala free skill (Claude Code, Codex, ya AI ke baghair); yahan aik clip bana kar dekha; kamai ka koi wada nahi (Beyond Tahir)",
+      "category": "Content & Marketing",
+      "source": "S3",
+      "section": "Reels: clipping aur collab",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://github.com/beyondtahir/beyondgtaclips",
+          "label": "GitHub repository — Beyond GTA Clips skill"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/2667821253672638"
+        }
+      ],
+      "added": "2026-11-22"
+    },
+    {
+      "id": "L-132",
+      "title": "OpenFilm — open-source AI video agent: coding agent web pages se film banata hai aur MP4 nikalta hai; free (MIT), yahan 8 second ki video bana kar dekhi; aik click wala generator nahi (Pinoyfreecoder)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Video aur avatar",
+      "kind": "Web page",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://github.com/pezetel/openfilm",
+          "label": "GitHub repository — OpenFilm"
+        },
+        {
+          "kind": "Web page",
+          "url": "https://www.facebook.com/100063476663630/posts/1800299018762636/"
+        }
+      ],
+      "added": "2026-11-22"
+    },
+    {
+      "id": "L-133",
+      "title": "DOF Simulator — camera ka depth of field aur background blur browser mein dekhein (lens, aperture, fasla badal kar); free, login nahi; yahan chala kar dekha (Bytes HQ)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Kaam ki websites aur tools",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/4554585268114275"
+        }
+      ],
+      "added": "2026-11-22"
+    },
+    {
+      "id": "L-134",
+      "title": "Alomana — chat mein kaam likhein, AI agent apps, slides, docs banata hai; free mein 250 credits hafta, phir €20 mahina se; \"$4k mein website becho\" reel ka apna dawa hai, login ke baghair nahi chalta (Ay Ayy)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Kaam ki websites aur tools",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://alomana.com/",
+          "label": "Alomana official website"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/2333487610746763"
+        }
+      ],
+      "added": "2026-11-22"
+    },
+    {
+      "id": "L-135",
+      "title": "Harvard ke free online courses — official list par 128 courses (pll.harvard.edu/catalog/free); parhna free, edX certificate $149 se $299; sirf CS50 courses ka apna certificate free. AI aur coding courses ki list: notes/Harvard_free_courses.md (Alexandra Grants)",
+      "category": "AI Courses & Lessons",
+      "source": "S3",
+      "section": "Free online courses",
+      "kind": "Web page",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://alexandragrants.com/harvard-university-free-online-courses/"
+        }
+      ],
+      "added": "2026-11-23"
+    },
+    {
+      "id": "L-136",
+      "title": "Vidoveo — free AI video (8 second tak, 720p) aur image generator, sign-up nahi; dawa: din mein 50 videos aur 100 images. Site sirf 2 mahine purani, malik ka naam nahi; yahan nahi chalaya kyunke site bots ko mana karti hai (seedha link)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Video aur avatar",
+      "kind": "Web page",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://vidoveo.com/"
+        }
+      ],
+      "added": "2026-11-23"
+    },
+    {
+      "id": "L-137",
+      "title": "Jetpac Eterna — \"lifetime free\" travel eSIM: har eligible safar par 100 MB (saal mein 4 safar tak). Apne mulk mein nahi chalta; abhi sirf 10 mulkon ke logon ke liye, Pakistan ke liye sirf waitlist (seedha link)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Kaam ki websites aur tools",
+      "kind": "Web page",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://www.jetpacglobal.com/eterna"
+        }
+      ],
+      "added": "2026-11-23"
+    },
+    {
+      "id": "L-138",
+      "title": "Google Cloud — naye account par $300 credit 90 din ke liye, aur 20+ cheezein hamesha free had tak (maslan 1 chhoti e2-micro machine); sign-up par card dena lazmi. Link aik ishtihar ka tha (seedha link)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Kaam ki websites aur tools",
+      "kind": "Web page",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://cloud.google.com/gcp"
+        }
+      ],
+      "added": "2026-11-23"
+    },
+    {
+      "id": "L-139",
+      "title": "checkdomain.de — .com domain pehle saal €0.84 (Black Weeks, 30 Nov 2026 tak); \"affiliatechecker\" asal mein €5 ka voucher hai, $0 aik ghalti se banta tha aur ab band bataya ja raha hai. Doosre saal se taqreeban €26 saal, card lazmi (freebies post)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Kaam ki websites aur tools",
+      "kind": "Web page",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://www.checkdomain.de/"
+        }
+      ],
+      "added": "2026-11-23"
+    },
+    {
+      "id": "L-140",
+      "title": "HeyGen Voice Turbo — text se awaz ka model, API par 30 Nov 2026 tak free (card nahi, sirf account aur API key); free capacity bhar jaye to 429 error. Urdu chalti hai ya nahi, check nahi hua (freebies post)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Free AI models",
+      "kind": "Web page",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://www.heygen.com/blog/heygen-voice-turbo"
+        }
+      ],
+      "added": "2026-11-23"
+    },
+    {
+      "id": "L-141",
+      "title": "Exa — AI ke liye web search API: free plan mein har mahine $10 credit + $10 bonus, card nahi; post ke 4 promo codes ($140) check nahi ho sake. Is ka MCP server key ke baghair yahan chala kar dekha (freebies post)",
+      "category": "AI Tools & Websites",
+      "source": "S3",
+      "section": "Kaam ki websites aur tools",
+      "kind": "Web page",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://exa.ai/"
+        }
+      ],
+      "added": "2026-11-23"
     },
     {
       "id": "L-142",
@@ -3069,6 +3126,56 @@
       "added": "2026-11-23"
     },
     {
+      "id": "L-170",
+      "title": "UrduAi ki free master class: AI se video editing — 23 Nov 2026 se, classes email par (Urdu), certificate ke liye register hona lazmi; register: urduaiupdates.com/p/edc (Qaisar Roonjha, UrduAi)",
+      "category": "AI Courses & Lessons",
+      "source": "S3",
+      "section": "Free online courses",
+      "kind": "Web page",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://www.facebook.com/100092240108533/posts/1099939579757369/"
+        }
+      ],
+      "added": "2026-11-23"
+    },
+    {
+      "id": "L-171",
+      "title": "Asli Monet ki painting ko X par \"AI se banayi\" keh kar post kiya gaya, logon ne us mein ghaltiyan nikal dein — sabaq: log label dekh kar faisla karte hain. Waqia sach hai, May 2026 (Beyond Tahir)",
+      "category": "Content & Marketing",
+      "source": "S3",
+      "section": "Reels: sabaq aur misalein",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Video",
+          "url": "https://www.instagram.com/reel/DgDBTiJuT_a/"
+        }
+      ],
+      "added": "2026-11-23"
+    },
+    {
+      "id": "L-172",
+      "title": "MyClaw 3.0 — cloud computer par AI agents ki team (OpenClaw, Hermes, Claude Code waghera), Slack/WhatsApp se baat; $20 mahina se, free plan nahi. Video aadhi tareef, aadha Julian ke paid group ka ishtihar (Julian Goldie SEO)",
+      "category": "Automation & Agent Templates",
+      "source": "S3",
+      "section": "Reels: agents aur bots",
+      "kind": "Video",
+      "files": [
+        {
+          "kind": "Web page",
+          "url": "https://myclaw.ai/",
+          "label": "MyClaw official website"
+        },
+        {
+          "kind": "Video",
+          "url": "https://www.youtube.com/watch?v=BV_ojxOcmM4"
+        }
+      ],
+      "added": "2026-11-23"
+    },
+    {
       "id": "L-173",
       "title": "NetMirror — free/no-ads OTT streaming ka dawa (Abhilash Mc Zane)",
       "category": "AI Tools & Websites",
@@ -3094,13 +3201,13 @@
       "kind": "Video",
       "files": [
         {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/29173590215595441"
-        },
-        {
           "kind": "Web page",
           "url": "https://github.com/JuneYaooo/rea-video",
           "label": "Repository"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/29173590215595441"
         }
       ],
       "added": "2026-11-24",
@@ -3115,13 +3222,13 @@
       "kind": "Video",
       "files": [
         {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1469931291773381"
-        },
-        {
           "kind": "Web page",
           "url": "https://www.flova.ai/en/",
           "label": "Official website"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/1469931291773381"
         }
       ],
       "added": "2026-11-24",
@@ -3136,13 +3243,13 @@
       "kind": "Video",
       "files": [
         {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1807029370588796"
-        },
-        {
           "kind": "Web page",
           "url": "https://github.com/phone-harness/phone-harness",
           "label": "GitHub repository"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/1807029370588796"
         }
       ],
       "added": "2026-11-24",
@@ -3157,13 +3264,13 @@
       "kind": "Video",
       "files": [
         {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1034540356336567"
-        },
-        {
           "kind": "Web page",
           "url": "https://github.com/anomalyco/hex",
           "label": "GitHub repository"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/1034540356336567"
         }
       ],
       "added": "2026-11-24",
@@ -3268,13 +3375,13 @@
       "kind": "Video",
       "files": [
         {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/4350302691880930"
-        },
-        {
           "kind": "Web page",
           "url": "https://github.com/Moh4696/cinematic-skill",
           "label": "GitHub repo"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/4350302691880930"
         }
       ],
       "added": "2026-11-24",
@@ -3290,13 +3397,13 @@
       "kind": "Video",
       "files": [
         {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1170611448638136"
-        },
-        {
           "kind": "Web page",
           "url": "https://github.com/xyc999-ai/go-bot",
           "label": "GitHub repo"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/1170611448638136"
         }
       ],
       "added": "2026-11-24",
@@ -3312,13 +3419,13 @@
       "kind": "Video",
       "files": [
         {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1493364172673563"
-        },
-        {
           "kind": "Web page",
           "url": "https://github.com/lightpanda-io/browser",
           "label": "GitHub repo"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/1493364172673563"
         }
       ],
       "added": "2026-11-24",
@@ -3398,13 +3505,13 @@
       "kind": "Video",
       "files": [
         {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/4350302691880930"
-        },
-        {
           "kind": "Web page",
           "url": "https://github.com/Moh4696/cinematic-skill",
           "label": "GitHub repo"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/4350302691880930"
         }
       ],
       "added": "2026-11-24",
@@ -3420,13 +3527,13 @@
       "kind": "Video",
       "files": [
         {
-          "kind": "Video",
-          "url": "https://web.facebook.com/reel/1427691548934251"
-        },
-        {
           "kind": "Web page",
           "url": "https://github.com/nishant-Tiwari24/veil",
           "label": "GitHub repo"
+        },
+        {
+          "kind": "Video",
+          "url": "https://web.facebook.com/reel/1427691548934251"
         }
       ],
       "added": "2026-11-24",
@@ -3478,17 +3585,12 @@
         },
         {
           "kind": "Web page",
-          "url": "https://microsoft.ai/models/mai-code-2/",
-          "label": "Microsoft: MAI Code 2"
-        },
-        {
-          "kind": "Web page",
           "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
           "label": "Google: Gemini 4 Neon"
         }
       ],
       "added": "2026-11-24",
-      "note": "13:11 Urdu/Hindi news roundup with chaptered demos: ChatGPT business claims/discovery, merchant product feeds, Sales plugin, GPT-6.2 Astra/Sol, Microsoft MAI Code 2, Gemini 4 Neon, then the same open-ended website prompt in three models and creator’s visual/model preference. Treat the final comparison as one creator’s demo, not a controlled benchmark. Fact-check caveats: OpenAI says Business Hub claims require verification and eligibility; claiming does not guarantee higher placement, and Business Agents are currently limited to eligible businesses in the US (expansion planned). Merchant page says ChatGPT shopping is currently live in the US; applicants may be waitlisted—so the reel’s “free signup and immediate product visibility in Pakistan” is not established. Official OpenAI model page confirms GPT-6.2 Astra/Sol but its listed Astra API prices are $8/$40 per million input/output tokens and Sol keeps GPT-6.1 Sol pricing, which does not match the reel’s spoken price figures. MAI Code 2 and Gemini 4 Neon have official product pages; check current plan/region access. Reel title calls model “Claude 5.2”; description/model identity in this one-prompt demo was not independently verified.",
+      "note": "13:11 Urdu/Hindi news roundup with chaptered demos: ChatGPT business claims/discovery, merchant product feeds, Sales plugin, GPT-6.2 Astra/Sol, Microsoft MAI Code 2, Gemini 4 Neon, then the same open-ended website prompt in three models and creator’s visual/model preference. Treat the final comparison as one creator’s demo, not a controlled benchmark. Fact-check caveats: OpenAI says Business Hub claims require verification and eligibility; claiming does not guarantee higher placement, and Business Agents are currently limited to eligible businesses in the US (expansion planned). Merchant page says ChatGPT shopping is currently live in the US; applicants may be waitlisted—so the reel’s “free signup and immediate product visibility in Pakistan” is not established. Official OpenAI model page confirms GPT-6.2 Astra/Sol but its listed Astra API prices are $8/$40 per million input/output tokens and Sol keeps GPT-6.1 Sol pricing, which does not match the reel’s spoken price figures. MAI Code 2 and Gemini 4 Neon have official product pages; check current plan/region access. Reel title calls model “Claude 5.2”; description/model identity in this one-prompt demo was not independently verified. Automated access to the Microsoft MAI Code 2 page returned HTTP 403 during the final link audit, so that direct link is omitted until it can be verified in a normal browser; this response alone does not prove the page is dead.",
       "creator": "Beyond Tahir"
     },
     {
